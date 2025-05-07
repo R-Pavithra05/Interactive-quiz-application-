@@ -50,3 +50,5 @@ The interactive quiz application demonstrates effective use of frontend technolo
 OUTPUT 
 
 ![Image](https://github.com/user-attachments/assets/2fc266ef-ae96-408a-9548-3108f9304cf9)
+
+![Image](https://github.com/user-attachments/assets/9185b85a-92f1-467c-8f95-d2c3c29c59e1)
